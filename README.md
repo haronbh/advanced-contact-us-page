@@ -1,18 +1,29 @@
-# visu
+# Contact Us Page App
 
-A new Flutter project.
+This Flutter application is designed to provide a contact us page with three main functionalities: Terms of Use, Contact Us, and Gallery.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### 1. Terms of Use
 
-A few resources to get you started if this is your first Flutter project:
+- This section provides users with access to the terms and conditions of using the application or service.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Contact Us
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Users can contact the company using various methods:
+  - Email: Opens the default email client with the company's email address pre-filled.
+  - Facebook: Opens the Facebook app or browser to the company's Facebook page.
+  - Phone: Initiates a phone call to the company's phone number.
+  - Google Maps: Opens the Google Maps app or browser with the company's location.
 
-# advanced-contact-us-page
+### 3. Gallery
+
+- Displays images of the company or its products/services in a gallery format.
+
+## Installation
+
+To run this Flutter project locally, ensure you have Flutter installed on your machine. Clone this repository and run:
+
+```bash
+flutter pub get
+flutter run
