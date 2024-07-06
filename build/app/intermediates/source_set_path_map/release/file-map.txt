@@ -1,0 +1,15 @@
+com.example.visu.app-jetified-window-1.0.0-beta04-0 C:\Users\haron\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+com.example.visu.app-core-1.10.1-1 C:\Users\haron\.gradle\caches\transforms-3\0b9c903fef8d2eb2a269c36999ef4a74\transformed\core-1.10.1\res
+com.example.visu.app-jetified-window-java-1.0.0-beta04-2 C:\Users\haron\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.visu.app-lifecycle-runtime-2.3.1-3 C:\Users\haron\.gradle\caches\transforms-3\25a884faa36a531a9e5f369d596bbf88\transformed\lifecycle-runtime-2.3.1\res
+com.example.visu.app-browser-1.5.0-4 C:\Users\haron\.gradle\caches\transforms-3\a3fbb37dd5ef93c98bc80ddf0289d0af\transformed\browser-1.5.0\res
+com.example.visu.app-jetified-annotation-experimental-1.3.0-5 C:\Users\haron\.gradle\caches\transforms-3\ae329bc8a0eb87982c4fe41e3ec5da7f\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.visu.app-main-6 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\android\app\src\main\res
+com.example.visu.app-release-7 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\android\app\src\release\res
+com.example.visu.app-pngs-8 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\build\app\generated\res\pngs\release
+com.example.visu.app-resValues-9 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\build\app\generated\res\resValues\release
+com.example.visu.app-rs-10 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\build\app\generated\res\rs\release
+com.example.visu.app-mergeReleaseResources-11 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.visu.app-mergeReleaseResources-12 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.visu.app-merged_res-13 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\build\app\intermediates\merged_res\release
+com.example.visu.app-packaged_res-14 C:\Users\haron\Desktop\Sent\etude\S6\miniprojet\visu\build\url_launcher_android\intermediates\packaged_res\release
